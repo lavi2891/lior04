@@ -1,0 +1,5 @@
+.vacation-list {
+    display: flex;
+    align-items: start;
+    flex-wrap: wrap;
+}
